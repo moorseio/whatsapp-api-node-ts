@@ -1,13 +1,12 @@
 <div>
+<h2 align="center">WhatsApp API Java ChatBot</h2>
 <p align="center">
-    <strong><font size="+2">Whatsapp API Typescript Chatbot</font></strong>
-    <br/>
-    <strong><font size="+1" align="center">
-      <a href="https://moorse.io/">Nosso Site</a>
-      <span> · </span>
-      <a href="https://moorse.readme.io/">Readme IO</a>
-    </font></strong>
-</p>
+<strong><font size="+2" align="center">
+  <a href="https://whatsapp.moorse.io/">Nosso Site</a>
+  <span> · </span>
+  <a href="https://moorse.readme.io/">Documentação</a>
+</font></strong>
+<br/>
 <a href="https://moorse.io/">
   <img alt="Logo" title="#logo" width="300px" src="files/github.gif">
 </a>
