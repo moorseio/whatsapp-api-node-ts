@@ -1,5 +1,5 @@
 <div>
-<h2 align="center">WhatsApp API Java ChatBot</h2>
+<h2 align="center">Whatsapp API Typescript Chatbot</h2>
 <p align="center">
 <strong><font size="+2" align="center">
   <a href="https://whatsapp.moorse.io/">Nosso Site</a>
